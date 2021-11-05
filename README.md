@@ -7,7 +7,7 @@ To understand Normal Distribution and its application. Daily returns of stocks t
 Creating DatetimeIndex from column date to plot trends over time. Plotting Close price trends.
 
 Q1. Expected daily Rate of return from these stocks. 
-Ans: Rate of return is Gain for positive values and Loss for negative values. Plotting Gains or Losses over time for both the stocks. Plotting the normal distribution for both the stocks.
+### Ans: Rate of return is Gain for positive values and Loss for negative values. Plotting Gains or Losses over time for both the stocks. Plotting the normal distribution for both the stocks.
 
 Q2. Which Stocks have higher risks or volatality as far as daily returns are concerned. 
 Ans: Distribution plots and using mean and standard deviation. variance or standard deviation of gain indicates risk.
